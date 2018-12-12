@@ -1,0 +1,2 @@
+# VGAN
+Variational Discriminator Bottleneckによる画像生成が出来たら良いな
